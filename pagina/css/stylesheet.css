@@ -1,0 +1,70 @@
+.mdl-layout-transparent{
+	background: url('../contenido/imagenes/bg.png') center / cover;
+}
+/*Personal*/
+.mdl-layout--fixed-tabs .mdl-layout__tab-bar{
+	background: transparent;
+}
+.mdl-layout__tab-bar{
+	background: transparent;
+}
+code{
+	position: relative;
+    left: -20%;
+}
+.img{
+	position: relative;
+	width: 60%;
+	left: 20%;
+}
+
+.page-content h1{
+	text-align: center;
+}
+.page-content .mdl-card{
+	width: 80%;
+	left: 10%;
+}
+.page-content .mdl-card p{
+	font-size: 20px;
+}
+.storyimg{
+	width: 75%;
+	left: 15%;
+	position: relative;
+}
+.storyimg_left{
+	width: 100%;
+	position: relative;
+	left: -5%;
+}
+.storyimg_center{
+	width: 80%;
+	left: 10%;
+	position: relative;
+}
+/*------------------------------*/
+/*Index*/
+.margin{
+	margin-top: 4%;
+}
+.prof_pic img {
+	width: 60%;
+	position: relative;
+	left: 20%;
+	border: solid 3px #333;
+	border-radius: 2000px;
+}
+.mdl-card {
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
+
+.margin .mdl-card__supporting-text{
+	text-align: center;
+}
+.mdl-card__supporting-text {
+	text-align: justify;
+	width: auto; 
+}
